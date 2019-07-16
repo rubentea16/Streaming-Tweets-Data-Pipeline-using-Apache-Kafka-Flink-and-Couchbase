@@ -1,0 +1,3 @@
+org/myorg/quickstart/StreamingTwitter$TweetToJsonDocument.class
+org/myorg/quickstart/StreamingTwitter.class
+org/myorg/quickstart/CouchbaseSink.class
